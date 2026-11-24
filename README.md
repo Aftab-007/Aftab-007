@@ -25,8 +25,8 @@ FortiGate · Cisco · Zero Trust · Cloudflare · GitHub · Huawei Cloud · Clou
 HTML · CSS · JavaScript · React · TypeScript · Python · Node.js · Tailwind CSS
 
 ## 🎓 Certifications
--- Fortinet NSE 4 · [Credly](https://www.credly.com/users/aftabarab/badges/credly)
--- FortiGate 7.6 Administrator · [Credly](https://www.credly.com/users/aftabarab/badges/credly)
+- Fortinet NSE 4 · [Credly](https://www.credly.com/users/aftabarab/badges/credly)
+- FortiGate 7.6 Administrator · [Credly](https://www.credly.com/users/aftabarab/badges/credly)
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/aftab007/) · [Website](https://aftabarab.net) · [Credly](https://www.credly.com/users/aftabarab/badges/credly)
