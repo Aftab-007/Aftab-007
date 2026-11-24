@@ -22,6 +22,7 @@
 
 ## 🛠️ Tech Stack
 FortiGate · Cisco · Zero Trust · Cloudflare · GitHub · Huawei Cloud · Cloud Technologies · Cloud Infrastructure · Linux · Windows
+
 HTML · CSS · JavaScript · React · TypeScript · Python · Node.js · Tailwind CSS
 
 ## 🎓 Certifications
